@@ -204,57 +204,57 @@ endif
 let g:colors_name="zenburn"
 
 hi Boolean         guifg=#dca3a3
-hi Character       guifg=#dca3a3 gui=bold
-hi Comment         guifg=#7f9f7f gui=italic
-hi Conditional     guifg=#f0dfaf gui=bold
-hi Constant        guifg=#dca3a3 gui=bold
-hi Cursor          guifg=#000d18 guibg=#8faf9f gui=bold
-hi Debug           guifg=#bca3a3 gui=bold
-hi Define          guifg=#ffcfaf gui=bold
+hi Character       guifg=#dca3a3
+hi Comment         guifg=#7f9f7f
+hi Conditional     guifg=#f0dfaf
+hi Constant        guifg=#dca3a3
+hi Cursor          guifg=#000d18 guibg=#8faf9f
+hi Debug           guifg=#bca3a3
+hi Define          guifg=#ffcfaf
 hi Delimiter       guifg=#8f8f8f
-hi DiffAdd         guifg=#709080 guibg=#313c36 gui=bold
+hi DiffAdd         guifg=#709080 guibg=#313c36
 hi DiffChange      guibg=#333333
 hi DiffDelete      guifg=#333333 guibg=#464646
-hi DiffText        guifg=#ecbcbc guibg=#41363c gui=bold
-hi Directory       guifg=#9fafaf gui=bold
-hi ErrorMsg        guifg=#80d4aa guibg=#2f2f2f gui=bold
-hi Exception       guifg=#c3bf9f gui=bold
+hi DiffText        guifg=#ecbcbc guibg=#41363c
+hi Directory       guifg=#9fafaf
+hi ErrorMsg        guifg=#80d4aa guibg=#2f2f2f
+hi Exception       guifg=#c3bf9f
 hi Float           guifg=#c0bed1
 hi FoldColumn      guifg=#93b3a3 guibg=#3f4040
 hi Folded          guifg=#93b3a3 guibg=#3f4040
 hi Function        guifg=#efef8f
 hi Identifier      guifg=#efdcbc
 hi IncSearch       guibg=#f8f893 guifg=#385f38
-hi Keyword         guifg=#f0dfaf gui=bold
-hi Macro           guifg=#ffcfaf gui=bold
+hi Keyword         guifg=#f0dfaf
+hi Macro           guifg=#ffcfaf
 hi ModeMsg         guifg=#ffcfaf gui=none
-hi MoreMsg         guifg=#ffffff gui=bold
+hi MoreMsg         guifg=#ffffff
 hi Number          guifg=#8cd0d3
 hi Operator        guifg=#f0efd0
-hi PreCondit       guifg=#dfaf8f gui=bold
-hi PreProc         guifg=#ffcfaf gui=bold
-hi Question        guifg=#ffffff gui=bold
-hi Repeat          guifg=#ffd7a7 gui=bold
+hi PreCondit       guifg=#dfaf8f
+hi PreProc         guifg=#ffcfaf
+hi Question        guifg=#ffffff
+hi Repeat          guifg=#ffd7a7
 hi Search          guifg=#ffffe0 guibg=#284f28
-hi SpecialChar     guifg=#dca3a3 gui=bold
-hi SpecialComment  guifg=#82a282 gui=bold
+hi SpecialChar     guifg=#dca3a3
+hi SpecialComment  guifg=#82a282
 hi Special         guifg=#cfbfaf
 hi SpecialKey      guifg=#9ece9e
 hi Statement       guifg=#e3ceab gui=none
 hi StatusLine      guifg=#313633 guibg=#ccdc90
 hi StatusLineNC    guifg=#2e3330 guibg=#88b090
-hi StorageClass    guifg=#c3bf9f gui=bold
+hi StorageClass    guifg=#c3bf9f
 hi String          guifg=#cc9393
-hi Structure       guifg=#efefaf gui=bold
-hi Tag             guifg=#e89393 gui=bold
-hi Title           guifg=#efefef gui=bold
+hi Structure       guifg=#efefaf
+hi Tag             guifg=#e89393
+hi Title           guifg=#efefef
 hi Todo            guifg=#dfdfdf guibg=bg gui=bold
-hi Typedef         guifg=#dfe4cf gui=bold
-hi Type            guifg=#dfdfbf gui=bold
+hi Typedef         guifg=#dfe4cf
+hi Type            guifg=#dfdfbf
 hi Underlined      guifg=#dcdccc gui=underline
 hi VertSplit       guifg=#2e3330 guibg=#688060
-hi VisualNOS       guifg=#333333 guibg=#f18c96 gui=bold,underline
-hi WarningMsg      guifg=#ffffff guibg=#333333 gui=bold
+hi VisualNOS       guifg=#333333 guibg=#f18c96 gui=underline
+hi WarningMsg      guifg=#ffffff guibg=#333333
 hi WildMenu        guibg=#2c302d guifg=#cbecd0 gui=underline
 
 hi SpellBad   guisp=#bc6c4c guifg=#dc8c6c
